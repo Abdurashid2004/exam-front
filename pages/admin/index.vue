@@ -4,6 +4,9 @@
 </template>
 
 <script setup>
+  definePageMeta({
+  layouts: "admin",
+});
 </script>
 
 <style lang="scss" scoped>
